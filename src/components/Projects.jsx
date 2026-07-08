@@ -20,16 +20,6 @@ const projectImages = [
 
 const projects = [
   {
-    id: 1,
-    title: "Logistics Management Website",
-    stack: ["React", "Laravel", "MySQL", "Tailwind CSS", "Cloudinary"],
-    image: projectImages[0],
-    link: "https://moromuboexpresslogistics.com/",
-    description:
-      "A logistics management platform built to streamline shipment tracking, customer requests, fleet coordination, and delivery management. Designed with a fast, responsive interface that helps businesses manage operations efficiently while providing customers with real-time updates.",
-  },
-
-  {
     id: 2,
     title: "Healthcare Clinic Website",
     stack: ["Next.js", "Laravel", "Tailwind CSS", "Cloudinary"],
@@ -37,6 +27,16 @@ const projects = [
     link: "https://heritagehealthcare.co.uk/",
     description:
       "A modern healthcare website that enables patients to explore medical services, learn about specialists, schedule appointments, and access important clinic information through an intuitive, responsive, and accessible user experience.",
+  },
+
+  {
+    id: 1,
+    title: "Logistics Management Website",
+    stack: ["React", "Laravel", "MySQL", "Tailwind CSS", "Cloudinary"],
+    image: projectImages[0],
+    link: "https://moromuboexpresslogistics.com/",
+    description:
+      "A logistics management platform built to streamline shipment tracking, customer requests, fleet coordination, and delivery management. Designed with a fast, responsive interface that helps businesses manage operations efficiently while providing customers with real-time updates.",
   },
 
   {
