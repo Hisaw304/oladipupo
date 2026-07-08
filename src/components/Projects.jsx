@@ -24,7 +24,7 @@ const projects = [
     title: "Logistics Management Website",
     stack: ["React", "Laravel", "MySQL", "Tailwind CSS", "Cloudinary"],
     image: projectImages[0],
-    link: "#",
+    link: "https://moromuboexpresslogistics.com/",
     description:
       "A logistics management platform built to streamline shipment tracking, customer requests, fleet coordination, and delivery management. Designed with a fast, responsive interface that helps businesses manage operations efficiently while providing customers with real-time updates.",
   },
@@ -34,7 +34,7 @@ const projects = [
     title: "Healthcare Clinic Website",
     stack: ["Next.js", "Laravel", "Tailwind CSS", "Cloudinary"],
     image: projectImages[1],
-    link: "#",
+    link: "https://heritagehealthcare.co.uk/",
     description:
       "A modern healthcare website that enables patients to explore medical services, learn about specialists, schedule appointments, and access important clinic information through an intuitive, responsive, and accessible user experience.",
   },
@@ -44,7 +44,7 @@ const projects = [
     title: "Gym Wear E-commerce Platform",
     stack: ["React", "Laravel", "MySQL", "Tailwind CSS", "Stripe"],
     image: projectImages[2],
-    link: "#",
+    link: "https://primewears.vercel.app/",
     description:
       "A full-featured fitness apparel e-commerce platform with secure online payments, customer authentication, order tracking, wishlists, customer dashboards, and a powerful admin dashboard for managing products, orders, and inventory.",
   },
@@ -54,7 +54,7 @@ const projects = [
     title: "Law Firm Website",
     stack: ["React", "Laravel", "Tailwind CSS", "MySQL"],
     image: projectImages[3],
-    link: "#",
+    link: "https://seasidepartners.org/",
     description:
       "A professional law firm website focused on building trust and generating client inquiries. It features attorney profiles, practice areas, consultation booking, and a custom article management system that allows administrators to publish legal resources and updates.",
   },
@@ -64,7 +64,7 @@ const projects = [
     title: "AI Image Tools Platform",
     stack: ["Next.js", "Supabase", "Cloudinary", "Tailwind CSS"],
     image: projectImages[4],
-    link: "#",
+    link: "https://freshmindstudio.vercel.app/",
     description:
       "A SaaS platform providing AI-powered image utilities including background removal, image compression, and optimization. Built with performance, scalability, and an intuitive workflow to help businesses and creators process images quickly.",
   },
@@ -74,7 +74,7 @@ const projects = [
     title: "Dance Class & Show Booking Platform",
     stack: ["React", "Laravel", "MySQL", "Tailwind CSS"],
     image: projectImages[5],
-    link: "#",
+    link: "dxbentertainment.vercel.app",
     description:
       "A complete dance academy and event booking platform where users can register for classes, reserve show tickets, manage bookings, and receive updates. The platform also includes an administrative dashboard for scheduling classes, events, and managing participants.",
   },
