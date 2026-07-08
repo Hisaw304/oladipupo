@@ -7,7 +7,7 @@ import {
   FaJs,
 } from "react-icons/fa";
 
-import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
+import { SiNextdotjs, SiTailwindcss, SiPhp, SiShadcnui } from "react-icons/si";
 
 export default function TechStack() {
   const stack = [
@@ -17,6 +17,11 @@ export default function TechStack() {
       desc: "Robust PHP framework for scalable backend systems.",
     },
     {
+      name: "PHP",
+      icon: <SiPhp />,
+      desc: "Server-side scripting language powering secure web applications.",
+    },
+    {
       name: "React",
       icon: <FaReact />,
       desc: "Building dynamic and interactive user interfaces.",
@@ -24,32 +29,37 @@ export default function TechStack() {
     {
       name: "Next.js",
       icon: <SiNextdotjs />,
-      desc: "Server-side rendering and optimized web apps.",
+      desc: "Server-side rendering and optimized web applications.",
+    },
+    {
+      name: "Tailwind CSS",
+      icon: <SiTailwindcss />,
+      desc: "Utility-first CSS framework for fast, responsive interfaces.",
+    },
+    {
+      name: "shadcn/ui",
+      icon: <SiShadcnui />,
+      desc: "Accessible, beautifully designed React components built on Radix UI.",
     },
     {
       name: "Bootstrap",
       icon: <FaBootstrap />,
-      desc: "Responsive UI components and layout system.",
-    },
-    {
-      name: "HTML",
-      icon: <FaHtml5 />,
-      desc: "Structured and semantic web foundations.",
-    },
-    {
-      name: "CSS",
-      icon: <FaCss3Alt />,
-      desc: "Modern styling with responsive design techniques.",
+      desc: "Responsive UI components and flexible grid layouts.",
     },
     {
       name: "JavaScript",
       icon: <FaJs />,
-      desc: "Core language for dynamic web functionality.",
+      desc: "The core language for creating dynamic web experiences.",
     },
     {
-      name: "Tailwind",
-      icon: <SiTailwindcss />,
-      desc: "Utility-first CSS for fast UI development.",
+      name: "HTML5",
+      icon: <FaHtml5 />,
+      desc: "Semantic markup for modern, accessible websites.",
+    },
+    {
+      name: "CSS3",
+      icon: <FaCss3Alt />,
+      desc: "Modern styling with responsive layouts and animations.",
     },
   ];
 
