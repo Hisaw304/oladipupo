@@ -20,7 +20,7 @@ const projectImages = [
 
 const projects = [
   {
-    id: 2,
+    id: 1,
     title: "Healthcare Clinic Website",
     stack: ["Next.js", "Laravel", "Tailwind CSS", "Cloudinary"],
     image: projectImages[1],
@@ -30,7 +30,7 @@ const projects = [
   },
 
   {
-    id: 1,
+    id: 2,
     title: "Logistics Management Website",
     stack: ["React", "Laravel", "MySQL", "Tailwind CSS", "Cloudinary"],
     image: projectImages[0],
