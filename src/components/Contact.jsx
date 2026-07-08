@@ -113,7 +113,7 @@ export default function Contact() {
                   href="mailto:joel@example.com"
                   className="contact-info-value"
                 >
-                  joeloladipupo@gmail.com
+                  olatigbejoel15@gmail.com
                 </a>
               </div>
             </div>
@@ -123,12 +123,12 @@ export default function Contact() {
               <div>
                 <p className="contact-info-label">WhatsApp</p>
                 <a
-                  href="https://wa.me/2340000000000"
+                  href="https://wa.me/2347040299438"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="contact-info-value"
                 >
-                  +234 90 4245 7823
+                  +234 70 4029 9438
                 </a>
               </div>
             </div>

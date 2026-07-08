@@ -75,10 +75,10 @@ export default function Hero() {
 
           {/* Buttons */}
           <div className="flex gap-4 mt-8 flex-wrap fade-in delay-4">
-            <a href="#" className="btn-primary">
+            <a href="#contact" className="btn-primary">
               Collaboration
             </a>
-            <a href="#" className="btn-secondary">
+            <a href="/resume.pdf" className="btn-secondary">
               Resume
             </a>
           </div>
@@ -86,18 +86,21 @@ export default function Hero() {
 
         {/* RIGHT SOCIALS */}
         <div className="hero-socials fade-in delay-5">
-          <a href="#" className="social-icon">
+          <a
+            href="https://www.instagram.com/oladipupo_15/"
+            className="social-icon"
+          >
             <FaInstagram />
           </a>
-          <a href="#" className="social-icon">
+          <a href="https://github.com/Olatigbejoel15/" className="social-icon">
             <FaGithub />
           </a>
-          <a href="#" className="social-icon">
+          {/* <a href="#" className="social-icon">
             <FaLinkedinIn />
           </a>
           <a href="#" className="social-icon">
             <FaTwitter />
-          </a>
+          </a> */}
         </div>
       </div>
     </section>

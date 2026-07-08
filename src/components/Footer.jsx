@@ -50,18 +50,24 @@ export default function Footer() {
         <div>
           <h2 className="footer-heading">Connect</h2>
           <div className="flex gap-4 mt-4">
-            <a href="#" className="social-icon">
-              <FaXTwitter />
+            <a
+              href="https://www.instagram.com/oladipupo_15/"
+              className="social-icon"
+            >
+              <FaInstagram />
             </a>
-            <a href="#" className="social-icon">
-              <FaLinkedinIn />
+            <a
+              href="https://github.com/Olatigbejoel15/"
+              className="social-icon"
+            >
+              <FaGithub />
             </a>
-            <a href="#" className="social-icon">
+            {/* <a href="#" className="social-icon">
               <FaInstagram />
             </a>
             <a href="#" className="social-icon">
               <FaGithub />
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
