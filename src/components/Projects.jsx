@@ -74,7 +74,7 @@ const projects = [
     title: "Dance Class & Show Booking Platform",
     stack: ["React", "Laravel", "MySQL", "Tailwind CSS"],
     image: projectImages[5],
-    link: "dxbentertainment.vercel.app",
+    link: "https://dxbentertainment.vercel.app/",
     description:
       "A complete dance academy and event booking platform where users can register for classes, reserve show tickets, manage bookings, and receive updates. The platform also includes an administrative dashboard for scheduling classes, events, and managing participants.",
   },
