@@ -55,6 +55,8 @@ export default function About() {
             <div className="about-tools mt-6">
               {[
                 "Laravel",
+                "PHP",
+                "Shadcn",
                 "React",
                 "Next.js",
                 "Bootstrap",
