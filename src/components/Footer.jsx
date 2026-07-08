@@ -62,12 +62,6 @@ export default function Footer() {
             >
               <FaGithub />
             </a>
-            {/* <a href="#" className="social-icon">
-              <FaInstagram />
-            </a>
-            <a href="#" className="social-icon">
-              <FaGithub />
-            </a> */}
           </div>
         </div>
       </div>

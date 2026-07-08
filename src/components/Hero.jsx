@@ -95,12 +95,6 @@ export default function Hero() {
           <a href="https://github.com/Olatigbejoel15/" className="social-icon">
             <FaGithub />
           </a>
-          {/* <a href="#" className="social-icon">
-            <FaLinkedinIn />
-          </a>
-          <a href="#" className="social-icon">
-            <FaTwitter />
-          </a> */}
         </div>
       </div>
     </section>
