@@ -10,8 +10,8 @@ import dancebooking from "../assets/dancebooking.png";
 
 // Assign the imported images to your existing projects array
 const projectImages = [
-  logistics,
   healthcare,
+  logistics,
   gymwear,
   lawfirm,
   imagetools,
