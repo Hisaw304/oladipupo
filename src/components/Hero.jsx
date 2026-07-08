@@ -75,7 +75,7 @@ export default function Hero() {
 
           {/* Buttons */}
           <div className="flex gap-4 mt-8 flex-wrap fade-in delay-4">
-            <a href="#contact" className="btn-primary">
+            <a href="#connect" className="btn-primary">
               Collaboration
             </a>
             <a href="/resume.pdf" className="btn-secondary">
